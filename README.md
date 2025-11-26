@@ -157,7 +157,7 @@ Frontend will run at:
 
 # 🧪 API Handling (Axios + JWT)
 
-Your React frontend uses:
+My React frontend uses:
 
 Request Interceptor → attaches access token
 
@@ -167,65 +167,20 @@ Auth Provider Context
 
 PrivateRoute wrapper for protected pages
 
-This setup is production-ready and commonly used in real professional projects.
-
-# 🚧 Future Plans (Optional Roadmap)
-
-Add real stock prediction ML model (TensorFlow / Scikit-Learn)
-
-Add charts, analytics, and live data
-
-Improve UI/UX and theme
-
-Add user roles
-
-Deployment (Docker, Render, Railway, or VPS)
-
-# 📦 How to Generate requirements.txt (Backend)
-
-From inside backend-drf, run:
-
-pip freeze > requirements.txt
-
-
-This captures all Python dependencies with exact versions.
-
-# 📤 How to Add README.md (Local → GitHub)
-1. Create README.md locally
-
-Inside the project root:
-
-stock-prediction-portal/
-   README.md
-
-
-Paste the content provided above.
-
-2. Stage the files
-git add README.md backend-drf/requirements.txt
-
-3. Commit
-git commit -m "Add README and requirements file"
-
-4. Push to GitHub
-git push origin main
-
-
-Now GitHub will automatically show your README on the homepage.
 
 # 📸 Screenshots
 
 ## Login Page
-![Login Page](images/Login Page.png)
+![Login Page](assets/images/Login%20Page.PNG)
 
 ## Register Page
-![Register Page](images/Register Page.png)
+![Register Page](assets/images/Register%20Page.PNG)
 
 ## Home Page
-![Home Page](images/Home Page.png)
+![Home Page](assets/images/Home%20Page.PNG)
 
 ## Dashboard Page
-![Dashboard Page](images/Dashboard Page.png)
+![Dashboard Page](assets/images/Dashboard%20Page.PNG)
 
 # 👤 Author
 
