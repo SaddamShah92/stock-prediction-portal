@@ -213,6 +213,20 @@ git push origin main
 
 Now GitHub will automatically show your README on the homepage.
 
+# 📸 Screenshots
+
+## Login Page
+![Login Page](images/login.png)
+
+## Register Page
+![Register Page](images/register.png)
+
+## Home Page
+![Home Page](images/home.png)
+
+## Dashboard Page
+![Dashboard Page](images/dashboard.png)
+
 # 👤 Author
 
 Syed Saddam Shah
