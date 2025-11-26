@@ -216,16 +216,16 @@ Now GitHub will automatically show your README on the homepage.
 # 📸 Screenshots
 
 ## Login Page
-![Login Page](images/login.png)
+![Login Page](images/Login Page.png)
 
 ## Register Page
-![Register Page](images/register.png)
+![Register Page](images/Register Page.png)
 
 ## Home Page
-![Home Page](images/home.png)
+![Home Page](images/Home Page.png)
 
 ## Dashboard Page
-![Dashboard Page](images/dashboard.png)
+![Dashboard Page](images/Dashboard Page.png)
 
 # 👤 Author
 
