@@ -1,4 +1,4 @@
-📊 Stock Prediction Portal (Practice Project – React + Django REST Framework)
+# 📊 Stock Prediction Portal (Practice Project – React + Django REST Framework)
 
 A full-stack practice project built to strengthen skills in:
 
@@ -14,7 +14,7 @@ Full-stack architecture, clean folder structure, and integration workflows
 This portal does not include machine learning yet — it is designed as a foundation for learning full-stack development with React + DRF.
 A real ML prediction module may be added later as a separate step once the fundamentals are mastered.
 
-🚀 Overview
+# 🚀 Overview
 
 The Stock Prediction Portal is a practice dashboard that demonstrates a complete full-stack authentication flow, API communication, and front-end structure using modern tools.
 
@@ -34,7 +34,7 @@ Dashboard layout demonstrating authenticated views
 
 Clean project structure for scalable full-stack apps
 
-🧰 Tech Stack
+# 🧰 Tech Stack
 Frontend – React
 
 React 18
@@ -59,8 +59,8 @@ Modular API structure
 
 SQLite database
 
-✨ Features Implemented
-🔐 Authentication
+# ✨ Features Implemented
+# 🔐 Authentication
 
 JWT login & register
 
@@ -72,7 +72,7 @@ Token expiration handling
 
 Redirect to login on 401 using interceptors
 
-🎨 Frontend (React)
+# 🎨 Frontend (React)
 
 Reusable layout
 
@@ -84,7 +84,7 @@ API service layer using Axios instance
 
 Dashboard sample pages
 
-🛠 Backend (DRF)
+# 🛠 Backend (DRF)
 
 Auth endpoints
 
@@ -96,7 +96,7 @@ Organized folder structure
 
 Configurable CORS, settings, and environment setup
 
-📂 Project Structure
+# 📂 Project Structure
 stock-prediction-portal/
 │
 ├── backend-drf/
@@ -118,12 +118,12 @@ stock-prediction-portal/
     ├── package.json
     └── .env
 
-🖥️ Getting Started (Run Locally)
-1️⃣ Clone the Repository
+# 🖥️ Getting Started (Run Locally)
+# 1️⃣ Clone the Repository
 git clone https://github.com/SaddamShah92/stock-prediction-portal.git
 cd stock-prediction-portal
 
-🔧 Backend Setup (Django)
+# 🔧 Backend Setup (Django)
 Create Virtual Environment (Recommended)
 cd backend-drf
 python -m venv venv
@@ -143,9 +143,9 @@ python manage.py runserver
 
 Backend will run at:
 
-👉 http://localhost:8000
+# 👉 http://localhost:8000
 
-🎨 Frontend Setup (React)
+# 🎨 Frontend Setup (React)
 cd ../frontend-react
 npm install   # or yarn install
 npm start     # or yarn start
@@ -153,9 +153,9 @@ npm start     # or yarn start
 
 Frontend will run at:
 
-👉 http://localhost:3000
+# 👉 http://localhost:3000
 
-🧪 API Handling (Axios + JWT)
+# 🧪 API Handling (Axios + JWT)
 
 Your React frontend uses:
 
@@ -169,7 +169,7 @@ PrivateRoute wrapper for protected pages
 
 This setup is production-ready and commonly used in real professional projects.
 
-🚧 Future Plans (Optional Roadmap)
+# 🚧 Future Plans (Optional Roadmap)
 
 Add real stock prediction ML model (TensorFlow / Scikit-Learn)
 
@@ -181,7 +181,7 @@ Add user roles
 
 Deployment (Docker, Render, Railway, or VPS)
 
-📦 How to Generate requirements.txt (Backend)
+# 📦 How to Generate requirements.txt (Backend)
 
 From inside backend-drf, run:
 
@@ -190,7 +190,7 @@ pip freeze > requirements.txt
 
 This captures all Python dependencies with exact versions.
 
-📤 How to Add README.md (Local → GitHub)
+# 📤 How to Add README.md (Local → GitHub)
 1. Create README.md locally
 
 Inside the project root:
@@ -213,8 +213,8 @@ git push origin main
 
 Now GitHub will automatically show your README on the homepage.
 
-👤 Author
+# 👤 Author
 
-Saddam Hussain
+Syed Saddam Shah
 Full-Stack Developer (React + Django)
 GitHub: https://github.com/SaddamShah92
